@@ -1,4 +1,4 @@
-package com.java.wgcisotto.behavioral.chainofresponsibility;
+package com.wgcisotto.behavioral.chain;
 
 import org.junit.jupiter.api.Test;
 
