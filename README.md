@@ -16,4 +16,7 @@
 
 #### Iterator
 * Navigation 
-* 
+
+#### Mediator
+* Loose coupling 
+* Reusable components 
