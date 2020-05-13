@@ -20,3 +20,9 @@
 #### Mediator
 * Loose coupling 
 * Reusable components 
+
+#### Memento
+* Restore Object to previous state
+* Undo/Rollback
+
+
