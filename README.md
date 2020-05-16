@@ -32,4 +32,8 @@
 * Pub/Sub
 * MVC
 
+#### State 
+* Localize state behavior
+* State Object 
+* Open Closed principles 
 
