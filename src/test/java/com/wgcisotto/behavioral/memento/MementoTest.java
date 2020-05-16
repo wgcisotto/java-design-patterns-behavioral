@@ -1,4 +1,4 @@
-package com.wgcisotto.behavioral;
+package com.wgcisotto.behavioral.memento;
 
 import com.wgcisotto.behavioral.memento.CareTaker;
 import com.wgcisotto.behavioral.memento.Employee;

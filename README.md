@@ -25,4 +25,11 @@
 * Restore Object to previous state
 * Undo/Rollback
 
+#### Observer
+* One to many 
+* Decoupled 
+* Event Handling 
+* Pub/Sub
+* MVC
+
 
