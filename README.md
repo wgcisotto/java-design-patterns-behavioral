@@ -37,3 +37,14 @@
 * State Object 
 * Open Closed principles 
 
+#### Strategy
+* Eliminate conditional statements 
+* Behavior encapsulated in classes
+* Difficult to add nre strategies
+* Client aware of strategies 
+* Client chooses strategy 
+* Remove if/else conditionals 
+
+
+  
+
