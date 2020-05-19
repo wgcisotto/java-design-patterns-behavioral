@@ -45,6 +45,9 @@
 * Client chooses strategy 
 * Remove if/else conditionals 
 
-
+#### Template Method
+* Code reuse
+* IoC
+* plugable components 
   
 
