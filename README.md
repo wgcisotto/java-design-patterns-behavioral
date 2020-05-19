@@ -50,4 +50,8 @@
 * IoC
 * plugable components 
   
+#### Visitor
+* Separate Algorithm from object
+* adding new features 
+* Maintain Open/Closed principles 
 
